@@ -7,9 +7,9 @@ relative_permalinks: false
 encoding: utf-8
 
 # Setup
-title:               iFound.io
+title:               Symbiotical.com
 #tagline:             'foo's website
-description:         iFound.io
+description:         Symbiotical.com
 #url: https://lanyon-plus.sbamin.com
 #Orig- url: ""
 #Orig- baseurl: ""
@@ -26,14 +26,14 @@ description:         iFound.io
 #urlimg: https://dyndna.github.io/lanyon-plus/images/
 ###urlimg: https://omnisym.github.io/lanyon/images/
 
-url: https://ifound-io.github.io/home/.
+url: https://Symbiotical/home/.
 baseurl: /home/.
 urlimg: "/home/images/"
 
 markdown: kramdown
 kramdown:
   math_engine: 
-company: iFound.io
+company: Symbiotical.com
 
 paginate: 5
 paginate_path: "/blog/page:num"
@@ -132,6 +132,6 @@ disqus_shortname: foo
 #google_analytics:   xyz123abc
 
 #### For dummy website only - remove if you wish ####
-github_repo: https://github.com/dyndna/lanyon-plus
+github_repo: https://github.com/symbiotical/home
 version: 1.1.1
 ## END ##

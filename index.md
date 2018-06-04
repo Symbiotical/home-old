@@ -5,10 +5,18 @@ title: Personal Homepage of foo boo
 description: "Blogging on ...."
 ---
 
-## [lanyon-plus](https://github.com/dyndna/lanyon-plus)
+<!-- ## [lanyon-plus](https://github.com/dyndna/lanyon-plus) -->
+
+## Welcome to..
+
+# Symbiotical.com
+
+## Comming soon..
+
+### Contact info@symbiotical.com
 
 Based on Jekyll theme: [Lanyon](http://lanyon.getpoole.com) by [**Mark Otto**](https://github.com/mdo)
-
+<!-- 
 * add-ons by [Samir Amin](http://sbamin.com)
 * [Site features]({{ site.url}}/disclosure#i-classfa-fa-thumbs-o-up-credits-for-site-featuresi)
 * License: Open sourced under the [MIT license](http://sbamin.com/disclosure/#theme-major-credit--license). 
@@ -76,4 +84,4 @@ Twitter stream will show up here if `twitter_widget_id` is present is `_config.y
     <a class="pagination-item older" href="{{ site.url }}/blog"><i class="fa fa-edit"> Blog</i></a>
     <a class="pagination-item newer" href="{{ site.url }}/tags"><i class="fa fa-tags"> Tags</i></a>
 </div>
-</h3>
+</h3> -->
