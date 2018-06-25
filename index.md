@@ -15,6 +15,7 @@ description: "Blogging on ...."
 
 ### Contact info@symbiotical.com
 
+
 Based on Jekyll theme: [Lanyon](http://lanyon.getpoole.com) by [**Mark Otto**](https://github.com/mdo)
 <!-- 
 * add-ons by [Samir Amin](http://sbamin.com)
