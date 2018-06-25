@@ -53,6 +53,14 @@ When walking (not so much in a non-crowded city/town before or after peek hour(s
 Mobile / Cell Devices.
 Please avoid using your mobile devices while moving, simply pull over to the left (out of the way), stop and then start reading, writing on you mobile phone, tablet, smart watch etc.
 
+##Applies to.
+Walkways.
+Footpath.
+Road.
+Escalators.
+Mountain bike riding.
+Bike Riding.
+
 ##Why:
 There is always others that walk faster than you or in a hurry.
 You have no write to block, restrict or control others destiny.

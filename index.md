@@ -11,9 +11,20 @@ description: "Blogging on ...."
 
 # Symbiotical.com
 
-## Comming soon..
+## Under Construction
+
+#The power of many. Un-written rules.
 
 ### Contact info@symbiotical.com
+
+A place to state your public request to make the society a more empathetic and efficient place!
+
+Come here to suggest your own improvements for the public to action, we all vote and hopefully agree apon to action.
+
+Example: "Could everybody walk on the outside of the footpath / sidewalk unless overtaking please?"
+
+See "About" for some examples.
+
 
 
 Based on Jekyll theme: [Lanyon](http://lanyon.getpoole.com) by [**Mark Otto**](https://github.com/mdo)

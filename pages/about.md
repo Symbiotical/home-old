@@ -35,3 +35,6 @@ Symbiotical.com is a place where anyone can have there say and try to co-ordinat
 e.g. Could everyone please keep to the left (Australia) when walking on the footpath so others can get past?
 
 Then they vote on and agree for the un-written rules.
+
+Go to www.github.com to make, submit your suggestions..
+https://github.com/Symbiotical/home
