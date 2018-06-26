@@ -20,6 +20,7 @@ tags:
   - "walking"
   - "footpath"
   - "sidewalk"
+  - "target_audience-all"
 ---
 
 <div class="post-author text-center">                       
@@ -31,20 +32,23 @@ tags:
 </span>
 </div>
 
-<h1>When Walking</h1>
+## Target Audience:
+All
 
-#Country: All
+## Country: 
+All
+
 I suggest we all agree to keep to the outside lane unless over taking?
 Definition: Outside means closes to the building or furthers away from the road.
 
-##Country: Australia:
+## Country: Australia:
 Please keep left when walking!
 
-##Country: Japan
+## Country: Japan
 Some parts of Japan keep left, some keep right.
 Let's discuss here!
 
-##United States.
+## United States.
 Keep right unless overtaking.
 
 

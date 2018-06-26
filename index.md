@@ -13,7 +13,7 @@ description: "Blogging on ...."
 
 ## Under Construction
 
-#The power of many. Un-written rules.
+##The power of many. Un-written rules.
 
 ### Contact info@symbiotical.com
 
@@ -27,7 +27,7 @@ See "About" for some examples.
 
 
 
-Based on Jekyll theme: [Lanyon](http://lanyon.getpoole.com) by [**Mark Otto**](https://github.com/mdo)
+<!-- Based on Jekyll theme: [Lanyon](http://lanyon.getpoole.com) by [**Mark Otto**](https://github.com/mdo) -->
 <!-- 
 * add-ons by [Samir Amin](http://sbamin.com)
 * [Site features]({{ site.url}}/disclosure#i-classfa-fa-thumbs-o-up-credits-for-site-featuresi)

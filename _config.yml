@@ -96,11 +96,11 @@ links:
     url: /
   - title: <i class="iconside iconm-user"></i> About
     url: /about/
-  - title: <i class="fa fa-faq"></i> FAQs
+  - title: <i class="fa fa-faq iconm-question"></i> FAQs
     url: /faq/
   - title: <i class="iconside iconm-user"></i> Walking
     url: /walking/
-  - title: <i class="fa fa-faq"></i> Mobile / Cell
+  - title: <i class="fa fa-faq iconm-phone"></i> Mobile / Cell
     url: /mobile/
   - title: <i class="iconside iconm-quill"></i> Blog
     url: /blog/
@@ -108,18 +108,18 @@ links:
     url: /tours/
   - title: <i class="fa fa-tags"></i> Tags
     url: /tags/
-  - title: <i class="fa fa-archive"></i> Archive
-    url: /archive/
-  - title: <i class="iconside iconm-wordpress"></i> Old Blog
-    url: https://foo.wordpress.com
-    external: true
-  - title: <i class="iconside iconm-envelop"></i> Contact
-    url: /contact/
-  - title: <i class="iconside iconm-twitter"></i> Twitter
-    url: https://twitter.com/abcd
-    external: true
-  - title: <i class="iconside iconm-feed2"></i> Feed
-    url: /feed.xml
+  # - title: <i class="fa fa-archive"></i> Archive
+  #   url: /archive/
+  # - title: <i class="iconside iconm-wordpress"></i> Old Blog
+  #   url: https://foo.wordpress.com
+  #   external: true
+  # - title: <i class="iconside iconm-envelop"></i> Contact
+  #   url: /contact/
+  # - title: <i class="iconside iconm-twitter"></i> Twitter
+  #   url: https://twitter.com/abcd
+  #   external: true
+  # - title: <i class="iconside iconm-feed2"></i> Feed
+  #   url: /feed.xml
 
 
 # Google Custom Search:
