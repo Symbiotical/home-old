@@ -30,7 +30,7 @@ tags:
 </span>
 </div>
 
-Symbiotical.com is a place where anyone can have there say and try to co-ordinate things they would like to changes the way people do things.
+Symbiotical.com is a place where anyone can have there say and try to co-ordinate for common good, curtious, efficiency and to reduce confusion.
 
 e.g. Could everyone please keep to the left (Australia) when walking on the footpath so others can get past?
 
