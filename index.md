@@ -17,7 +17,7 @@ description: "Blogging on ...."
 
 ### Contact info@symbiotical.com
 
-A place to state your public request to make the society a more empathetic and efficient place!
+A place to state your public request to make the society a more empathic and efficient world!
 
 Come here to suggest your own improvements for the public to action, we all vote and hopefully agree apon to action.
 
